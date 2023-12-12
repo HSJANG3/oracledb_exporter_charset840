@@ -10,7 +10,7 @@ import (
 	"github.com/prometheus/common/version"
 	"github.com/prometheus/exporter-toolkit/web"
 	webflag "github.com/prometheus/exporter-toolkit/web/kingpinflag"
-	_ "https://github.com/HSJANG3/go-ora-sid840/v2"
+	_ "github.com/HSJANG3/go-ora-sid840/v2"
 
 	kingpin "github.com/alecthomas/kingpin/v2"
 	"github.com/prometheus/common/promlog"
